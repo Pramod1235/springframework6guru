@@ -8,6 +8,10 @@ import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 import jakarta.persistence.OneToMany;
 
+/*
+ * @Author Pramod Reddy
+ */
+
 @Entity
 public class Publisher {
 	

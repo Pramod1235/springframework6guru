@@ -10,6 +10,10 @@ import guru.springframework.spring6webapp.repositories.AuthorRepository;
 import guru.springframework.spring6webapp.repositories.BookRepository;
 import guru.springframework.spring6webapp.repositories.PublisherRepository;
 
+/*
+ * @Author Pramod Reddy
+ */
+
 @Component
 public class BootStrapData implements CommandLineRunner {
 
